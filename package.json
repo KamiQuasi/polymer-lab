@@ -1,0 +1,11 @@
+{
+  "name": "polymer-lab",
+  "version": "0.0.0",
+  "description": "Polymer Codelab and Playground",
+  "author": "Luke Dary <lukedary@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.7.12",
+    "gulp": "^3.9.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "polymer-lab",
+  "version": "0.0.0",
+  "authors": [
+    "Luke Dary <lukedary@gmail.com>"
+  ],
+  "description": "Polymer Codelab and Playground",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.0.4"
+  }
+}
